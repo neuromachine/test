@@ -11,3 +11,4 @@ export interface UserEntity {
   company: CompanyEntity;
   address: AddressEntity;
 }
+
